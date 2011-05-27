@@ -2,4 +2,7 @@
 <resources>
     <string name="hello">Hello World, FaultStart!</string>
     <string name="app_name">DroidFault</string>
+    <string name="BFHello"> ++++++++++[\&gt;+++++++\&gt;++++++++++\&gt;+++\&gt;+\&lt;\&lt;\&lt;\&lt;-]\&gt;++.\&gt;+.+++++++..+++.\&gt;++.\&lt;\&lt;+++++++++++++++.\&gt;.+++.------.--------.\&gt;+.\&gt;.</string>
+    <string name="about">About</string>
+    <string name="run">Run</string>
 </resources>
