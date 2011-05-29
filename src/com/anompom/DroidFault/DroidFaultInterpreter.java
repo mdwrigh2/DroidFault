@@ -1,7 +1,5 @@
 package com.anompom.DroidFault;
 
-import android.util.Log;
-
 public class DroidFaultInterpreter {
 	private char[] input;
 	private char[] mem = new char[100];
